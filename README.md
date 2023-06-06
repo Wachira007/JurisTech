@@ -1,2 +1,2 @@
 # JurisTech
-Frontend of a consultancy law firm
+Frontend app for a consultancy law firm
