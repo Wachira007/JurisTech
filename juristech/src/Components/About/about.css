@@ -1,0 +1,43 @@
+.about
+{
+   background: url("https://huehomelighting.com/wp-content/uploads/2018/10/sunrise-hue-scene-768x512.jpg"); 
+   height: 100vh;
+   font-family: serif;
+   padding: 20px;
+   padding-right: 20px;
+  
+}
+
+
+h1{
+   margin:0;
+   text-align: center;
+   font-size: 50px
+   
+   
+}
+h2{
+   margin:0px;
+   text-align: center;
+}
+p{
+   word-wrap: normal;
+   font-family:Verdana;
+   width: 10cm;
+   font-size: 20px;
+   text-align: justify;
+}
+
+ nav ul{
+   float:right;
+   display:flex;
+   column-gap:25px;
+   list-style-type:none;
+   font-size: 25px;
+ }
+
+ .statement {
+    display: flex;
+    justify-content: center;
+ }
+  

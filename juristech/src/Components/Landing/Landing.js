@@ -5,6 +5,7 @@ const Landing = () => {
   return (
     <div className="landing">
       
+     {/*
       <nav>
         
         <ul>
@@ -15,7 +16,7 @@ const Landing = () => {
             <li>< a href="Landing.js">Contact Us</a></li>
             
           </ul>
-        </nav>
+        </nav>*/} 
         
         <h1>JurisTech </h1>
         <h2>Bridging Technology and Law for a Connected Future</h2>
