@@ -1,11 +1,12 @@
 import './App.css';
-import Landing from './Components/Landing';
+import Lawyers from './Components/LYT/Lawyers';
+//import Landing from './Components/Landing/Landing';
 
 function App() {
   return (
     <div className="App">
-      <h1>JurisTech</h1>
-      <Landing />
+      
+      <Lawyers />
     
     </div>
   );
