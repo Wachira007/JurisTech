@@ -14,7 +14,7 @@ const Practice = () => {
         <div style={{  }}>
           <h1>Our Areas of Practice:</h1>
         </div>
-        <div style={{ display: "flex", marginBottom: "30px", width:"70%", height:"200px" }}>
+        <div style={{ display: "flex", marginBottom: "30px", width:"70%", height:"450px" }}>
           <div
             style={{
               display: "flex",
@@ -26,10 +26,9 @@ const Practice = () => {
               textAlign: "left",
             }}
           >
-            <h3>Real Estate Law</h3>
+            <h3>Information Technology Law</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisses varius enim in eros elementum tristique.
+            Our Juristech IT Law experts provide comprehensive legal advice tailored to our clients' specific needs. We assist in drafting and reviewing IT agreements, creating data protection policies, conducting compliance assessments, and advising on global regulations such as GDPR and CCPA. With our in-depth knowledge of the legal intricacies surrounding technology, we empower our clients to make informed decisions and minimize potential risks.
             </p>
           </div>
           <div
