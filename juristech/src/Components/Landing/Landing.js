@@ -3,7 +3,7 @@ import "./landing.css";
 
 const Landing = () => {
   return (
-    <div className="landing">
+    <div className="landing" style={{backgroundColor:"green"}}>
       <div style={{ position: "absolute", left: 0, bottom: 0 }}>
         <div
           style={{

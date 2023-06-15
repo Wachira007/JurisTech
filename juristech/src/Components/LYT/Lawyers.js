@@ -9,7 +9,7 @@ const Lawyers = () => {
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
-          alignItems:"center"
+          alignItems: "center",
         }}
       >
         <div
@@ -32,18 +32,20 @@ const Lawyers = () => {
               height: "25vh",
             }}
           >
-            <p style={{ fontSize: "14px" }}>
+            <h2
+              style={{ fontSize: "14px", fontWeight: "400", textAlign: "left", paddingBottom:"20px" }}
+            >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum <br />tristique. Duis cursus,
+              Suspendisse varius enim in eros elementum
+              tristique. Duis cursus, mi quis viverra ornare, eros dolor
+              interdum nulla, ut commodo diam libero vitae erat.
+            </h2>
+            <h2 style={{ fontSize: "14px", fontWeight: "400", textAlign: "left"  }}>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Suspendisse varius enim in eros elementum tristique. Duis cursus,
               mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
               libero vitae erat.
-            </p>
-            <p style={{ fontSize: "14px" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum tristique. Duis cursus,<br />
-              mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
-              libero vitae erat.
-            </p>
+            </h2>
           </div>
         </div>
         <div

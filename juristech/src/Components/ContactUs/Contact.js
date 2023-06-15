@@ -5,7 +5,7 @@ const Contact = () => {
     <div  style={{
       display: "flex",
       justifyContent: "center",
-      alignItems: "center",}}>
+      alignItems: "center"}}>
       <div
         style={{
           display: "flex",
