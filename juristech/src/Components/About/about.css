@@ -20,6 +20,13 @@ h2{
    margin:0px;
    text-align: center;
 }
+h4{
+   margin: 10px;
+ }
+h3{
+   margin: 10px;
+   text-align: center
+}
 p{
    word-wrap: normal;
    font-family:Verdana;
@@ -54,30 +61,71 @@ p{
  #weare{
    
    display: flex; 
-   justify-content: space-between;
+   justify-content: space-around;
    padding: 30px;
    position: relative;
  }
  #firm{
    
-   margin: 20px;
+   margin: 40px;
+   font-size: 30px;
 
  }
  #partnernames{
    margin-left: 30px;
    display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
    margin-bottom: 0%;
    
  }
  #roles{
   
    display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
    margin-top: 0px;
    text-align: justify;
+   font-size: 15px;
    
  }
- h4{
-   margin: 10px;
+
+ #practiceareas{
+   display: flex;
+   margin: 40px;
+   font-size: 30px;
+   width: fit-content;
+
+ }
+
+ #practice1{
+   
+   margin-left: 30px;
+   margin-top: 50px;
+   justify-content: space-around;
+   margin-bottom: 0%;
+   font-size: 25px;
+   text-align: justify;
+   word-spacing: 2px;
+ }
+ #practice2{
+  
+   margin-left: 30px;
+   margin-top: 50px;
+   justify-content: space-around;
+   margin-bottom: 0%;
+   font-size: 25px;
+   text-align: justify;
+   word-spacing: 2px;
+ }
+ #practice3{
+  
+   margin-left: 30px;
+   margin-top: 50px;
+   justify-content: space-around;
+   margin-bottom: 0%;
+   font-size: 25px;
+   text-align: justify;
+   word-spacing: 2px;
+ }
+ #title{
+   font-size: 30px;
  }
