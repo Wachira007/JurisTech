@@ -2,7 +2,7 @@ import React from "react";
 
 const Practice = () => {
   return (
-    <div style={{}}>
+    <div style={{padding:"40px"}}>
       <div
         style={{
           display: "flex",
@@ -11,10 +11,10 @@ const Practice = () => {
           flexDirection: "column",
         }}
       >
-        <div style={{ textAlign: "left" }}>
+        <div style={{  }}>
           <h1>Our Areas of Practice:</h1>
         </div>
-        <div style={{ display: "flex", marginBottom: "30px" }}>
+        <div style={{ display: "flex", marginBottom: "30px", width:"70%", height:"200px" }}>
           <div
             style={{
               display: "flex",
@@ -48,7 +48,7 @@ const Practice = () => {
             </p>
           </div>
         </div>
-        <div style={{ display: "flex" }}>
+        <div style={{ display: "flex",  width:"70%", height:"200px" }}>
           <div
             style={{
               display: "flex",

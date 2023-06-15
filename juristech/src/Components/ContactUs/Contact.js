@@ -2,22 +2,27 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div>
+    <div  style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",}}>
       <div
         style={{
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
+          gap:"30px",
+          width:"800px"
         }}
       >
-        <div style={{ width: "20%", marginRight: "20px", textAlign: "left" }}>
+        <div style={{ width: "40%", marginRight: "20px", textAlign: "left" }}>
           <h1 style={{ textAlign: "left" }}>Contact Us</h1>
           <p>hello@juristech.com</p>
           <p>+254712345678</p>
           <p>Kabarak, Nakuru</p>
         </div>
-        <div style={{ width: "50%" }}>
-          <form style={{ textAlign: "left", width: "50%" }}>
+        <div style={{ width: "60%", paddingTop:"100px" }}>
+          <form style={{ textAlign: "left", width: "100%" }}>
             <div
               style={{
                 display: "flex",
