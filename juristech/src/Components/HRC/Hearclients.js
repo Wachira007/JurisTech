@@ -3,7 +3,7 @@ import image from "../../assets/newimg.jpg";
 
 const Lawyers = () => {
   return (
-    <div style={{ padding: "30px" }}>
+    <div style={{ padding: "20px" }}>
       <div
         style={{
           display: "flex",
@@ -19,9 +19,9 @@ const Lawyers = () => {
             alignItems: "center",
           }}
         >
-          <div style={{ width: "60%", height: "25vh" }}>
+          <div style={{ width: "40%", height: "15vh" }}>
             <h1 style={{ fontWeight: "700", fontSize: "40px" }}>
-              Lawyers you <br /> can trust
+              Hear From Our Clients
             </h1>
           </div>
           <div
@@ -29,23 +29,15 @@ const Lawyers = () => {
               width: "50%",
               textAlign: "left",
               fontSize: "14px",
-              height: "25vh",
+              height: "15vh",
             }}
           >
-            <h2
-              style={{ fontSize: "14px", fontWeight: "400", textAlign: "left", paddingBottom:"20px" }}
-            >
+            <p style={{ fontSize: "14px" }}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum
-              tristique. Duis cursus, mi quis viverra ornare, eros dolor
-              interdum nulla, ut commodo diam libero vitae erat.
-            </h2>
-            <h2 style={{ fontSize: "14px", fontWeight: "400", textAlign: "left"  }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum tristique. Duis cursus,
+              Suspendisse varius enim in<br /> eros elementum tristique. Duis cursus,
               mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
               libero vitae erat.
-            </h2>
+            </p>
           </div>
         </div>
         <div

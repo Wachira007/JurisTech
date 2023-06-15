@@ -8,6 +8,7 @@ import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Navbar from "./Components/Navbar/Navbar";
 import PageOne from "./Pages/PageOne";
 import Footer from "./Components/Footer/Footer";
+import PageThree from "./Pages/PageThree";
 
 function App() {
   return (
@@ -16,14 +17,9 @@ function App() {
         <Navbar />
         <Routes>
           <Route exact path="/" element={<PageOne />} />
-          <Route exact path="/about" element={<About />} />
-          <Route exact path="/practice" element={<Practice />} />
-          {/* <Route exact path="/about" element={<About />} />
-          <Route exact path="/lawyer" element={<Lawyers />} />
-          <Route exact path="/practice" element={<Practice />} />
-          <Route exact path="/contact" element={<Contact />} />
-          */}
+          <Route exact path="/reviews" element={<PageThree />} />
 
+          
         </Routes>
         <Footer />
       </div>

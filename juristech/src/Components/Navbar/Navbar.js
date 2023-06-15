@@ -47,7 +47,7 @@ const Navbar = () => {
               About_Us
             </Link>
             <Link
-              href="/contact"
+              href="/reviews"
               variant="body2"
               style={{
                 textDecoration: "none",
@@ -56,7 +56,7 @@ const Navbar = () => {
                 color: "#000",
               }}
             >
-              Contact_Us
+              Reviews
             </Link>
             <Link
               href="/practice"
