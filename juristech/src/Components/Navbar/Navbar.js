@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div style={{position:"relative"}}>
+    <div style={{ position: "relative" }}>
       <nav>
         <div
           style={{
@@ -22,7 +22,7 @@ const Navbar = () => {
               color: "#000",
             }}
           >
-            <Link
+            <a
               href="/"
               variant="body2"
               style={{
@@ -33,8 +33,8 @@ const Navbar = () => {
               }}
             >
               Home
-            </Link>
-            <Link
+            </a>
+            <a
               href="/about"
               variant="body2"
               style={{
@@ -45,8 +45,8 @@ const Navbar = () => {
               }}
             >
               About_Us
-            </Link>
-            <Link
+            </a>
+            <a
               href="/reviews"
               variant="body2"
               style={{
@@ -57,8 +57,8 @@ const Navbar = () => {
               }}
             >
               Reviews
-            </Link>
-            <Link
+            </a>
+            <a
               href="/practice"
               variant="body2"
               style={{
@@ -69,8 +69,8 @@ const Navbar = () => {
               }}
             >
               Practice_Areas
-            </Link>
-            <Link
+            </a>
+            <a
               style={{
                 backgroundColor: "#FF5E5B",
                 color: "#fff",
@@ -81,7 +81,7 @@ const Navbar = () => {
               }}
             >
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
       </nav>
