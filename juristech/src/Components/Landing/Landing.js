@@ -1,29 +1,48 @@
-import React from 'react'
-import './landing.css';
+import React from "react";
+import "./landing.css";
 
 const Landing = () => {
   return (
     <div className="landing">
-      
-     {/*
-      <nav>
-        
-        <ul>
-            <li>< a href="Landing.js">Home</a></li>
-            <li>< a href="About.js">About us</a></li>
-            <li>< a href="Landing.js">Testimonials</a></li>
-            <li>< a href="Landing.js">Our Practice Areas</a></li>
-            <li>< a href="Landing.js">Contact Us</a></li>
-            
-          </ul>
-        </nav>*/} 
-        
-        <h1>JurisTech </h1>
-        <h2>Bridging Technology and Law for a Connected Future</h2>
-        <p>JurisTech is a leading consultancy firm specializing in the intersection of technology and the law. With a team of highly skilled professionals, we offer comprehensive services to businesses, organizations, and individuals seeking expert guidance in navigating the legal complexities of the rapidly evolving technological landscape.</p>
-        <img src="https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=600" alt="alternatetext"></img>
+      <div style={{ position: "absolute", left: 0, bottom: 0 }}>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            textAlign: "left",
+            padding:"60px",
+            color:"#fff"
+          }}
+        >
+          <h1 style={{ fontSize: "42px", textAlign: "left", lineHeight:"60px" }}>
+            Bridging Technology and <br />Law for a Connected Future
+          </h1>
+          <h4 style={{lineHeight:"32px", fontWeight:"300"}}>
+            JurisTech is a leading consultancy firm specializing in the
+            intersection of technology<br /> and the law. With a team of highly
+            skilled professionals, we offer comprehensive<br /> services to
+            businesses, organizations, and individuals seeking expert guidance<br /> 
+            in navigating the legal complexities of the rapidly evolving
+            technological landscape.
+          </h4>
+          <div style={{ display: "flex", gap:"10px" }}>
+            <button style={{width: "130px",
+                backgroundColor: "#FF5E5B",
+                color: "#fff",
+                border: "none",
+                borderRadius: "6px",
+                padding: "14px",}}>What We Do</button>
+            <button style={{width: "130px",
+                backgroundColor:"transparent",
+                border: "1px solid #ffffff",
+                color:"#fff",
+                borderRadius: "6px",
+                padding: "14px",}}>Contact Us</button>
+          </div>
         </div>
-  )
-}
+      </div>
+    </div>
+  );
+};
 
-export default Landing
+export default Landing;
