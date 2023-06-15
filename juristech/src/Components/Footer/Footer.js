@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div style={{ padding: "70px 2px", position: "absolute", bottom:"0", left:"0"}}>
+    <div style={{ padding: "70px 2px",}}>
         <div style={{display: "flex",
           justifyContent: "center",
           alignItems: "center",}}>
