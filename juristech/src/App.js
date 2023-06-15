@@ -1,8 +1,8 @@
 import "./App.css";
 // import Landing from "./Components/Landing/Landing";
-// import About from "./Components/About/About";
+import About from "./Components/About/About";
 // import Lawyers from "./Components/LYT/Lawyers";
-// import Practice from "./Components/Practice_area/Practice";
+import Practice from "./Components/Practice_area/Practice";
 // import Contact from "./Components/ContactUs/Contact";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Navbar from "./Components/Navbar/Navbar";
