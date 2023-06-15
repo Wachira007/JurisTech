@@ -19,6 +19,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={<PageOne />} />
           <Route exact path="/reviews" element={<PageThree />} />
+          <Route exact path="/about" element={<About />} />
           <Route exact path="/about" element={<PageTwo />} />
 
           
