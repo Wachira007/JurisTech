@@ -76,6 +76,7 @@ p{
    display: flex;
    justify-content: space-around;
    margin-bottom: 0%;
+   text-align:center;
    
  }
  #roles{

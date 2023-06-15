@@ -25,36 +25,29 @@ const About = () => {
        </div>
        <div id ="weare"> 
        
-       <img src="https://images.pexels.com/photos/3823444/pexels-photo-3823444.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Managing Partner"></img>
-       <img src="https://images.pexels.com/photos/3823444/pexels-photo-3823444.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Senior Partner"></img>
-       <img src="https://images.pexels.com/photos/3823444/pexels-photo-3823444.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Senior Partner"></img>
+       <img src="https://images.pexels.com/photos/6615227/pexels-photo-6615227.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Managing Partner"></img>
+       <img src="https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Senior Partner"></img>
+       <img src="https://images.pexels.com/photos/10376248/pexels-photo-10376248.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Senior Partner"></img>
        
        </div>
        <div id = "partnernames">
       
-       <h4>Daniel Wachira <br/> Senior Partner</h4>
-       <h4>Daniel Wachira <br/> Managing Partner </h4>
-       <h4>Daniel Wachira <br/> Senior Partner </h4>
+       <h4>Jack W. Daniels <br/> Senior Partner</h4>
+       <h4>Rose G. Gundogan <br/> Managing Partner </h4>
+       <h4>Captain F. Morgan <br/> Senior Partner </h4>
        
        </div>
 
        <div id = "roles">
-       <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            varius enim in eros elementum tristique. Duis cursus, mi quis
-            viverra ornare, eros dolor interdum nulla, ut commodo diam libero
-            vitae erat.</h4>
-       <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            varius enim in eros elementum tristique. Duis cursus, mi quis
-            viverra ornare, eros dolor interdum nulla, ut commodo diam libero
-            vitae erat.</h4>
-       <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            varius enim in eros elementum tristique. Duis cursus, mi quis
-            viverra ornare, eros dolor interdum nulla, ut commodo diam libero
-            vitae erat.</h4>
+       <h4>
+As the Senior Partner in the Technology Law and Corporate Law division at Juristech, I play a pivotal role in leading and overseeing our legal practice in these areas. With extensive experience and expertise in technology and corporate law, I bring valuable insights and strategic guidance to our team and clients.</h4>
+       <h4>As the Managing Partner, my role is to lead Juristech towards its strategic objectives, drive growth and profitability, cultivate client relationships, foster a positive work culture, and ensure operational efficiency. I take on a multifaceted role that requires effective leadership, strategic thinking, and a commitment to delivering exceptional legal services to our clients.</h4>
+       <h4>As the Senior Partner in the Civil Law and Divorce Law division, I am dedicated to upholding the highest standards of legal representation, providing compassionate guidance to clients, and fostering the professional growth of our team. I strive to deliver successful outcomes and resolve legal disputes efficiently and effectively in the civil law and divorce law realms.</h4>
        </div>
           <br></br>
           <br></br>
          <div id = "title"><h2>Our Practice Areas</h2></div> 
+      
        <div id = "practiceareas">
                 
         <div id = "practice1">
