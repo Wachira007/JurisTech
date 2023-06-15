@@ -1,7 +1,7 @@
 .about
 {
    
-    height: 100vh;
+   height: 10vh;
    font-family: serif;
    padding: 20px;
    padding-right: 20px;
@@ -48,7 +48,7 @@ p{
     display: flex;
     justify-content: center;
     align-content: center;
-    
+
  }
 
  #us1{
