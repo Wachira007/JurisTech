@@ -9,6 +9,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import PageOne from "./Pages/PageOne";
 import Footer from "./Components/Footer/Footer";
 import PageThree from "./Pages/PageThree";
+import PageTwo from "./Pages/PageTwo";
 
 function App() {
   return (
@@ -19,8 +20,11 @@ function App() {
           <Route exact path="/" element={<PageOne />} />
           <Route exact path="/reviews" element={<PageThree />} />
           <Route exact path="/about" element={<About />} />
+          <Route exact path="/about" element={<PageTwo />} />
+
+          
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </BrowserRouter>
   );
