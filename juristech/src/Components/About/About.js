@@ -14,10 +14,12 @@ const About = () => {
        <div className="statement"> 
        
        <img src="https://images.pexels.com/photos/159832/justice-law-case-hearing-159832.jpeg?auto=compress&cs=tinysrgb&w=600" alt="alternatetext"></img>
+       <div id = "us1"></div>
+       <p>JurisTech is a leading consultancy firm specializing in the intersection of technology and the law. With a team of highly skilled professionals, we offer comprehensive services to businesses, organizations, and individuals seeking expert guidance in navigating the legal complexities of the rapidly evolving technological landscape.</p> 
        </div>
-       <div id='us1'>
-       <p>JurisTech is a leading consultancy firm specializing in the intersection of technology and the law. With a team of highly skilled professionals, we offer comprehensive services to businesses, organizations, and individuals seeking expert guidance in navigating the legal complexities of the rapidly evolving technological landscape.</p>
-       </div>
+       
+       
+       
        
        <div id = "firm">
         <h2>Our Firm</h2>
