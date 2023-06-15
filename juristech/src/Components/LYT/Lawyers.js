@@ -33,14 +33,21 @@ const Lawyers = () => {
             }}
           >
             <h2
-              style={{ fontSize: "14px", fontWeight: "400", textAlign: "left", paddingBottom:"20px" }}
+              style={{
+                fontSize: "14px",
+                fontWeight: "400",
+                textAlign: "left",
+                paddingBottom: "20px",
+              }}
             >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in eros elementum
-              tristique. Duis cursus, mi quis viverra ornare, eros dolor
-              interdum nulla, ut commodo diam libero vitae erat.
+              Suspendisse varius enim in eros elementum tristique. Duis cursus,
+              mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
+              libero vitae erat.
             </h2>
-            <h2 style={{ fontSize: "14px", fontWeight: "400", textAlign: "left"  }}>
+            <h2
+              style={{ fontSize: "14px", fontWeight: "400", textAlign: "left" }}
+            >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
               mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
