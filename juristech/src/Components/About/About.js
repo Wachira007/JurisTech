@@ -59,7 +59,7 @@ As the Senior Partner in the Technology Law and Corporate Law division at Jurist
             creating data protection policies, conducting compliance assessments, and 
             advising on global regulations such as GDPR and CCPA. With our in-depth 
             knowledge of the legal intricacies surrounding technology, we empower our 
-            clients to make informed decisions and minimize potential risks. <br/> <a href="https://example.com" target="_blank">Learn More</a>
+            clients to make informed decisions and minimize potential risks. <br/> <a href="https://academic.oup.com/ijlit/advance-articles" target="_blank">Learn More</a>
 
             </h5>       
        </div>
@@ -72,7 +72,7 @@ As the Senior Partner in the Technology Law and Corporate Law division at Jurist
             advice that aligns with our clients' business objectives, enabling 
             them to make informed decisions and navigate the corporate landscape
             with confidence.vitae erat.
-             <br/> <a href="https://example.com" target="_blank">Learn More</a>
+             <br/> <a href="https://legalcareerpath.com/what-is-corporate-law/" target="_blank">Learn More</a>
 
             </h5>       
        </div>
@@ -84,7 +84,7 @@ As the Senior Partner in the Technology Law and Corporate Law division at Jurist
           compensation, defending your rights, or seeking resolution through 
           negotiation or litigation, our experienced civil law attorneys will 
           work diligently to protect your interests and achieve the best possible 
-          outcome for your case. <br/> <a href="https://example.com" target="_blank">Learn More</a>
+          outcome for your case. <br/> <a href="https://www.thoughtco.com/civil-law-definition-4688760" target="_blank">Learn More</a>
 
             </h5>       
        </div>
