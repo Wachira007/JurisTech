@@ -71,6 +71,7 @@ const Navbar = () => {
               Practice_Areas
             </a>
             <a
+              href="/contact_us"
               style={{
                 backgroundColor: "#FF5E5B",
                 color: "#fff",
