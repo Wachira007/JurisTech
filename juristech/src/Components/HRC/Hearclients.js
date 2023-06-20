@@ -35,7 +35,7 @@ const Lawyers = () => {
             <p style={{ fontSize: "14px" }}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in<br /> eros elementum tristique. Duis cursus,
-              mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
+              mi quis viverra ornare, eros dolor<br/> interdum nulla, ut commodo diam
               libero vitae erat.
             </p>
           </div>
