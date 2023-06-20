@@ -36,7 +36,7 @@ const Lawyers = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in<br /> eros elementum tristique. Duis cursus,
               mi quis viverra ornare, eros dolor<br/> interdum nulla, ut commodo diam
-              libero vitae erat.
+              libero vitae erat..
             </p>
           </div>
         </div>
