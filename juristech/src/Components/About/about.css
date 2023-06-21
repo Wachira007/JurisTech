@@ -80,6 +80,10 @@ p{
    text-align:center;
    
  }
+
+#sr{
+  padding:10px;
+}
  #roles{
   
    display: flex;

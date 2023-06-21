@@ -19,15 +19,15 @@ const About = () => {
         <h2>Our Firm</h2>
       </div>
       <div id="weare">
-        <img
+        <img id="sr"
           src="https://images.pexels.com/photos/6615227/pexels-photo-6615227.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt="Managing Partner"
         ></img>
-        <img
+        <img id="sr"
           src="https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt="Senior Partner"
         ></img>
-        <img
+        <img id="sr"
           src="https://images.pexels.com/photos/10376248/pexels-photo-10376248.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt="Senior Partner"
         ></img>
