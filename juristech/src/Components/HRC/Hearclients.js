@@ -29,7 +29,7 @@ const Lawyers = () => {
               width: "50%",
               textAlign: "left",
               fontSize: "14px",
-              height: "15vh",
+              height: "15.1vh",
             }}
           >
             {/* <p style={{ fontSize: "14px" }}>
