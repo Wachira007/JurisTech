@@ -11,6 +11,7 @@ import Footer from "./Components/Footer/Footer";
 import PageThree from "./Pages/PageThree";
 import PageTwo from "./Pages/PageTwo";
 import PageFour from "./Pages/PageFour";
+import PageFive from "./Pages/PageFive";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route exact path="/about" element={<About />} />
           <Route exact path="/about" element={<PageTwo />} />
           <Route exact path="/contact_us" element={<PageFour />} />
+          <Route exact path="/practice" element={<PageFive />} />
 
           
         </Routes>
