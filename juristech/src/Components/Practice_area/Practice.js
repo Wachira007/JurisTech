@@ -26,17 +26,17 @@ const Practice = () => {
           >
             <h2
               style={{
-                textAlign: "left",
+                textAlign: "justify",
                 fontWeight: "600",
                 paddingBottom: "20px",
               }}
             >
               Information Technology Law
             </h2>
-            <h2 style={{ textAlign: "left", fontWeight: "400" }}>
-              Juristech IT Law experts provide comprehensive legal advice
-              tailored to clients' needs. They assist in drafting agreements,
-              creating data protection policies, conducting compliance
+            <h2 style={{ textAlign: "justify", fontWeight: "400" }}>
+             Juristech IT Law experts provide
+              comprehensive legal advice tailored to clients' needs. 
+              They assist in drafting agreements, creating data protection policies, conducting compliance
               assessments, and advising on global regulations. With their
               expertise, clients can make informed decisions and minimize risks.
             </h2>
@@ -52,19 +52,20 @@ const Practice = () => {
             {" "}
             <h2
               style={{
-                textAlign: "left",
+                textAlign: "justify",
                 fontWeight: "600",
                 paddingBottom: "20px",
+                
               }}
             >
               Information Technology Law
             </h2>
-            <h2 style={{ textAlign: "left", fontWeight: "400" }}>
-              Juristech IT Law experts provide comprehensive legal advice
-              tailored to clients' needs. They assist in drafting agreements,
-              creating data protection policies, conducting compliance
-              assessments, and advising on global regulations. With their
-              expertise, clients can make informed decisions and minimize risks.
+            <h2 style={{ textAlign: "justify", fontWeight: "400" }}>
+            Cybersecurity law is a rapidly evolving field. Juristech IT Law experts provides expert legal advice and 
+              solutions for cybersecurity challenges. Whether you need to 
+              comply with new regulations, respond to a cyberattack, or 
+              protect your data and assets, Juristech can help you navigate 
+              the complex cyber landscape with confidence and professionalism.
             </h2>
           </div>
         </div>
@@ -82,14 +83,14 @@ const Practice = () => {
           >
             <h2
               style={{
-                textAlign: "left",
+                textAlign: "justify",
                 fontWeight: "600",
                 paddingBottom: "20px",
               }}
             >
               Information Technology Law
             </h2>
-            <h2 style={{ textAlign: "left", fontWeight: "400" }}>
+            <h2 style={{ textAlign: "justify", fontWeight: "400" }}>
               Juristech IT Law expertsprovide comprehensive legal advice
               tailored to clients' needs. They assist in draftin agreements,
               creating data protection policies, conducting compliance
@@ -102,14 +103,14 @@ const Practice = () => {
           >
             <h2
               style={{
-                textAlign: "left",
+                textAlign: "justify",
                 fontWeight: "600",
                 paddingBottom: "20px",
               }}
             >
               Information Technology Law
             </h2>
-            <h2 style={{ textAlign: "left", fontWeight: "400" }}>
+            <h2 style={{ textAlign: "justify", fontWeight: "400" }}>
               Juristech IT Law experts provide comprehensive legal advice
               tailored to clients' needs. They assist in drafting agreements,
               creating data protection policies, conducting compliance

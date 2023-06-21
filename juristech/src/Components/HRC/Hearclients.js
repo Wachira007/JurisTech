@@ -19,7 +19,7 @@ const Lawyers = () => {
             alignItems: "center",
           }}
         >
-          <div style={{ width: "40%", height: "15vh" }}>
+          <div style={{ width: "100%", height: "15vh" }}>
             <h1 style={{ fontWeight: "700", fontSize: "40px" }}>
               Hear From Our Clients
             </h1>
@@ -32,12 +32,11 @@ const Lawyers = () => {
               height: "15vh",
             }}
           >
-            <p style={{ fontSize: "14px" }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse varius enim in<br /> eros elementum tristique. Duis cursus,
-              mi quis viverra ornare, eros dolor<br/> interdum nulla, ut commodo diam
-              libero vitae erat..
-            </p>
+            {/* <p style={{ fontSize: "14px" }}>
+            Hear from our clients how we helped them achieve their goals with 
+            <br/>our innovative solutions and expert guidance. Whether it's increasing sales, improving efficiency, or enhancing customer satisfaction, we have the right tools and strategies for any business challenge.
+             
+            </p> */}
           </div>
         </div>
         <div
